@@ -67,6 +67,8 @@ This command will run batchMint.js file on goerli network
 -> npx hardhat run scripts/approvedDeposit.js --network goerli
 This will run approvedDeposit.js on goerli network
 
+# Loom Video
+https://www.loom.com/share/5abb0ec76f94449f9e5a6b3754e5a3bf
 
 
 
