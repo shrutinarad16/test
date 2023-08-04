@@ -24,6 +24,8 @@ For this project, you will deploy an NFT collection on the Ethereum blockchain, 
 6) https://www.pinata.cloud/ (Used in creation of URL for each image)
 
 ## Description of Files used in this Project
--> co
+-> contracts Folder
+
+
 
 
